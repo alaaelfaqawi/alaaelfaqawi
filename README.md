@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alaa El-faqawi</h1>
 <h3 align="center">Front End Software Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Alaa+Wael+El-faqawi;Front+End+Software+Developer)](https://git.io/typing-svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaaelfaqawi&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaaelfaqawi&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaaelfaqawi&theme=aura)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaelfaqawi&label=Profile%20views&color=0e75b6&style=flat" alt="alaaelfaqawi" /> </p>
 
