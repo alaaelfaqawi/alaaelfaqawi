@@ -5,14 +5,21 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaaelfaqawi&theme=aura)
 
+![](http://gith<h1 align="center">Hi 👋, I'm Alaa El-faqawi</h1>
+<h3 align="center">Front End Software Developer</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaaelfaqawi&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaaelfaqawi&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alaaelfaqawi&theme=aura)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaaelfaqawi&theme=aura)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaaelfaqawi&theme=aura&utcOffset=8)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaelfaqawi&label=Profile%20views&color=0e75b6&style=flat" alt="alaaelfaqawi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaaelfaqawi" alt="alaaelfaqawi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/alaaelfaqawi" target="blank"><img src="https://img.shields.io/twitter/follow/alaaelfaqawi?logo=twitter&style=for-the-badge" alt="alaaelfaqawi" /></a> </p>
+<p align="center"> <a href="https://twitter.com/alaaelfaqawi" target="blank"><img src="https://img.shields.io/twitter/follow/alaaelfaqawi?logo=twitter&style=for-the-badge" alt="alaaelfaqawi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaelfaqawi&show_icons=true&locale=en&layout=compact" alt="alaaelfaqawi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaaelfaqawi&show_icons=true&locale=en" alt="alaaelfaqawi" /></p>
-
