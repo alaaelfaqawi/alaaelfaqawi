@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alaa El-faqawi</h1>
 <h3 align="center">Front End Software Developer</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Alaa+Wael+El-faqawi;Front+End+Software+Developer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaelfaqawi&label=Profile%20views&color=0e75b6&style=flat" alt="alaaelfaqawi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaaelfaqawi" alt="alaaelfaqawi" /></a> </p>
